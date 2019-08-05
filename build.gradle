@@ -1,0 +1,14 @@
+plugins {
+	id 'java'
+}
+
+group = 'istanbul.javausergroup.talk'
+version = '1.0.0'
+sourceCompatibility = '12'
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+}
